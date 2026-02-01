@@ -3,3 +3,4 @@
 *.exp
 .idea
 *.pyc
+*.so

@@ -1,0 +1,5 @@
+*.pyd
+*.lib
+*.exp
+.idea
+*.pyc

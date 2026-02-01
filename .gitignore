@@ -5,3 +5,4 @@
 *.pyc
 *.so
 cpp/build
+cpp/bin

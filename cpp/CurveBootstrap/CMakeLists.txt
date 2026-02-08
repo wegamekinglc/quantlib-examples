@@ -1,5 +1,5 @@
 add_executable(CurveBootstrap CurveBootstrap.cpp)
-target_link_libraries(CurveBootstrap QuantLib)
+target_link_libraries(CurveBootstrap PRIVATE QuantLib::QuantLib)
 
 install(TARGETS CurveBootstrap
         RUNTIME DESTINATION bin

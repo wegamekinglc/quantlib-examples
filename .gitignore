@@ -6,3 +6,5 @@
 *.so
 cpp/build
 cpp/bin
+.vs
+cpp/out
